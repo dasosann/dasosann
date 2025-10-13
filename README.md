@@ -1,5 +1,4 @@
 안녕하세요, 다소산입니다
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub)
 🧑‍💻 About Me
 
 🎓 가톨릭대학교 컴퓨터정보공학부 4학년 재학 중입니다.
