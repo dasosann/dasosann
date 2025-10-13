@@ -26,6 +26,6 @@
 
 ## 📬 Contact Me
 
-📧 Email: goodtony12@naver.com
-🌐 Blog: https://blog.naver.com/gtae0403
-💼 LinkedIn: https://www.linkedin.com/in/%EC%86%8C%EC%82%B0-%EB%8B%A4-b566b6359/
+- 📧 Email: goodtony12@naver.com
+- 🌐 Blog: https://blog.naver.com/gtae0403
+- 💼 LinkedIn: https://www.linkedin.com/in/%EC%86%8C%EC%82%B0-%EB%8B%A4-b566b6359/
