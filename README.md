@@ -26,8 +26,8 @@ CatHouse: AI 기반 기숙사 룸메이트 매칭 서비스 (React로 제작, No
 CoMatching: 사용자 피드백 기반 매칭 서비스 (Recoil 상태 관리, Toss Payments 통합).
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasosann&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasosann&layout=compact&theme=radical)
 
 📬 Contact Me
 
