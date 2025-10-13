@@ -19,10 +19,6 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcn&logoColor=white)
 
-🚀 Featured Projects
-
-CatHouse: AI 기반 기숙사 룸메이트 매칭 서비스 (React로 제작, Notion 프로젝트 소개 링크 첨부).
-CoMatching: 사용자 피드백 기반 매칭 서비스 (Recoil 상태 관리, Toss Payments 통합).
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasosann&show_icons=true&theme=radical)
