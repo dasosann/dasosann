@@ -20,8 +20,8 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasosann&show_icons=true&theme=radical&hide_border=true" alt="dasosann's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasosann&layout=compact&theme=radical&hide_border=true" alt="dasosann's top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dasosann&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasosann&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ## 📬 Contact Me
