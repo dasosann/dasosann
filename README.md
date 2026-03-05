@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me
 
-🎓 가톨릭대학교 컴퓨터정보공학부 졸업유예 중입니다. ( 아 졸업하기 싫다 )
+🎓 가톨릭대학교 컴퓨터정보공학부 재학 중 ( 아직은... )
 
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
